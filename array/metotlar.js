@@ -1,9 +1,9 @@
 // TEMEL DİZİ METOTLARI
 
-// let dizi = [1,2,3,4,5]
+let dizi = [1,2,3,4,5]
 // let meyveler = ["elma", "armut", "muz", "çilek"];
 // let dizi2 = [100, 99, 98, 97]
-// let lts = dizi.push(19, 12, 5, 8)
+let lts = dizi.push(19, 12, 5, 8)
 
 // let lts = dizi.pop()
 // let lts = dizi.shift()

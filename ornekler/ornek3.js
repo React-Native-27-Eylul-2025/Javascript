@@ -8,3 +8,6 @@ if ( x % 2 == 0 ) {
 } else {
     console.log("tektir")
 }
+
+// eğer çift ise -> true
+// tek ise -> false

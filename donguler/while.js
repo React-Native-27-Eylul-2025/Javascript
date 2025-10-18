@@ -10,7 +10,14 @@ let b = 20
 //     console.log("Deneme")
 // }
 
-while (a < b) {
-    console.log("a nın değeri: ", a);
-    a = a+1;
-}
+// while (a < b) {
+//     console.log("a nın değeri: ", a);
+//     a = a+1;
+// }
+
+// var sayac = 0;
+// while(a== 10){
+//     console.log("merhaba")
+//     sayac++
+//     if(sayac == 10) break;
+// }
