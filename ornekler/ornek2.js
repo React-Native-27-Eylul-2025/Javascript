@@ -15,7 +15,16 @@
 
 let myArray = [1,2,6,9,3,67,8,0,32];
 
-function arrayTopla(arr) {
+
+
+/**
+ * Bu fonksiyon şunu yapar bunu yapar.
+ *
+ * @param   arr bir arraydir
+ * @param   max maximum verilebilecek array uzunluğu
+ * @returns array toplamını return eder.
+ */
+function sumArray(arr, max) {
     let toplam = 0;
     for (let i = 0; i < arr.length; i++) {
         toplam = toplam + arr[i]
@@ -23,4 +32,4 @@ function arrayTopla(arr) {
     return toplam
 }
 
-console.log("sonuç: ", arrayTopla(myArray))
+console.log("sonuç: ", sumArray(myArray))

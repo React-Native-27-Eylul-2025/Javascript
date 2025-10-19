@@ -15,3 +15,10 @@ else {
 
 
 console.log("Program bitti")
+
+
+
+
+// | (veya)      || (veya mı?)
+
+// & (ve)        && (ve mi?)

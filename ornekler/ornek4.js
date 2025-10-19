@@ -2,10 +2,18 @@
 
 let x = 3
 
-let toplam = 0;
 
-for(let i = 1; i<=x; i++){
-    toplam += i
+
+
+// console.log(toplam)
+
+function toplam(x) {
+    let sonuc = 0;
+    
+    for(let i = 1; i<=x; i++){
+        sonuc += i
+    }
+    return sonuc
 }
 
-console.log(toplam)
+console.log(toplam(12))
